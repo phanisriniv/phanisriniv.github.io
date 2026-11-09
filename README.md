@@ -16,3 +16,4 @@ A responsive, static portfolio website built with HTML and CSS.
 ## Before publishing
 
 Review all contact details, dates, project descriptions and credential links. Add only project screenshots and files that do not expose passwords, tokens, private IP addresses, internal hostnames or other confidential information.
+This repository contains the source files for my professional portfolio website.
